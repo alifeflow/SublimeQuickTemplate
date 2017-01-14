@@ -1,0 +1,15 @@
+[
+	{
+		"caption": "Template: Generate from This File",
+		"command": "new_from_this"
+	},
+	{
+		"caption": "Template: New Diary",
+		"command": "new_template_from_file",
+		"args": {"file": "D:\\OneDrive\\iA Writer\\Diary\\_Template.md",
+			"type": "md",
+			"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax",
+			"fileLocString": "D:\\OneDrive\\iA Writer\\Diary\\"
+		}
+	}
+]
